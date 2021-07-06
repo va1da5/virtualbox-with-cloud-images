@@ -3,8 +3,9 @@ local-hostname: hostname.local
 # configure static network settings with an entry like below.
 #network-interfaces: |
 #  iface enp0s3 inet static
-#  address 192.168.1.10
-#  network 192.168.1.0
+#  address 10.0.2.15
+#  network 10.0.2.0
 #  netmask 255.255.255.0
-#  broadcast 192.168.1.255
-#  gateway 192.168.1.254
+#  broadcast 10.0.2.255
+#  gateway 10.0.2.2
+#  dns-nameservers 1.1.1.1 8.8.8.8

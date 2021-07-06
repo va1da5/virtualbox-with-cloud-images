@@ -5,7 +5,7 @@ users:
   - default
   # Following entry create user1 and assigns password specified in plain text.
   # Please not use of plain text password is not recommended from security best
-  # practises standpoint
+  # practices standpoint
   - name: user1
     groups: sudo
     sudo: ["ALL=(ALL) NOPASSWD:ALL"]
