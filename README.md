@@ -22,3 +22,4 @@ Mount the ISO image to the virtual machine before first run. Cloud images can be
 - [Ubuntu Cloud Images (include OVA for VirtualBox)](https://cloud-images.ubuntu.com/)
 - [Centos Cloud Images](https://cloud.centos.org/)
 - [Fedora Cloud Images](https://alt.fedoraproject.org/cloud/)
+- [Amazon AMI Images](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/amazon-linux-2-virtual-machine.html#amazon-linux-2-virtual-machine-download)
